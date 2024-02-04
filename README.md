@@ -1,1 +1,1 @@
-# Studying in Bilkent University
+# Studying CS in Bilkent University
